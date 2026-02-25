@@ -20,11 +20,11 @@
 
 ### Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Databases & Backend
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -37,7 +37,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -56,24 +55,12 @@
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
+## 📊 GitHub Stats
 
 <div align="center">
-  
-### 💭 Random Dev Quote (Dynamic)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### ✨ Show some ❤️ by starring some of my repositories!
-
-![Snake animation](https://raw.githubusercontent.com/olusay0/olusay0/output/github-contribution-grid-snake-dark.svg)
+![Sayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olusay0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olusay0&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -81,6 +68,14 @@
 
 <div align="center">
   
+### 🏆 GitHub Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=olusay0&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 💭 Random Dev Quote (Dynamic)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
 **© 2025 Sayo. All rights reserved.**
 
 *Built with ❤️ and lots of ☕*
