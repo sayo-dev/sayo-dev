@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Mobile+App+Engineer;Flutter+Enthusiast;Problem+Solver;Spring+Boot+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Problem+Solver;Flutter+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -59,8 +59,8 @@
 
 <div align="center">
 
-![Sayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olusay0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olusay0&layout=compact&theme=tokyonight)
+![Sayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayo-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayo-dev&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -69,7 +69,7 @@
 <div align="center">
   
 ### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=olusay0&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sayo-dev&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 💭 Random Dev Quote (Dynamic)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
